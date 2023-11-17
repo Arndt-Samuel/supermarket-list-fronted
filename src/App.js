@@ -10,8 +10,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<HomeScreen />}/>
-        <Route path="/" element={<ListScreen />}/>
+        <Route path="/" element={<HomeScreen />} />
+        <Route path="/list" element={<ListScreen />} />
       </Routes>
     </Router>
   )
