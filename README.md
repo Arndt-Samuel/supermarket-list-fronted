@@ -6,6 +6,10 @@ This is an application build using React.js, with the goal of make easier create
 <img height='500' src="https://github.com/Arndt-Samuel/supermarket-list-fronted/blob/main/public/images/demo.gif"/>
 </p>
 
+## Link to Production App:
+
+https://supermarket-list-fronted-rho.vercel.app
+
 # Technologies Used
 
 - React.js
@@ -21,7 +25,7 @@ This is an application build using React.js, with the goal of make easier create
 1. Clone the project:
 
 ```
- git clone https://github.com/gabrielrangel95/supermarket-list-fronted.git
+ git clone https://github.com/Arndt-Samuel/supermarket-list-fronted.git
 ```
 
 2. Install the dependecies:
