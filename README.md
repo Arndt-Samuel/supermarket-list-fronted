@@ -1,6 +1,6 @@
 # Supermarket List App
-This is an application build using React.js, with the goal of make easier create supermarket lists.
 
+This is an application build using React.js, with the goal of make easier create supermarket lists.
 
 <p>
 <img height='500' src="https://github.com/Arndt-Samuel/supermarket-list-fronted/blob/main/public/images/demo.gif"/>
