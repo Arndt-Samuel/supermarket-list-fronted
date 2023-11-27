@@ -1,21 +1,21 @@
-import './index.css'
+import { ButtonContainer, ButtonIcon } from './styles'
 
 export const Button = ({ children, onClick, variant, icon }) => {
   return (
-    <button
+    <ButtonContainer
       onClick={onClick}
+      outline={variant === 'outline' }
       className={`button-container ${
         variant === 'outline' ? 'outline' : 'main'
       }`}
     >
       {icon && (
-        <img
+        <ButtonIcon
           src={`/images/${icon}.svg`}
-          className="button-icon"
           alt={'supermarket_icon'}
         />
       )}
       {children}
-    </button>
+    </ButtonContainer>
   )
 }
