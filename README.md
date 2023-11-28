@@ -1,6 +1,7 @@
 # Supermarket List App
 
 This is an application build using React.js, with the goal of make easier create supermarket lists.
+It was used The Atomic Design Concept to organize the components.
 
 <p>
 <img height='500' src="https://github.com/Arndt-Samuel/supermarket-list-fronted/blob/main/public/images/demo.gif"/>
@@ -13,8 +14,11 @@ https://supermarket-list-fronted-rho.vercel.app
 # Technologies Used
 
 - React.js
-- CSS
+- Styled Components
 - Axios
+- Eslint
+- Prettier
+- Absolute Imports
 
 ## Requirements to Run:
 
